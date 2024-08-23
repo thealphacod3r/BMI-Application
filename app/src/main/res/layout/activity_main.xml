@@ -22,14 +22,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:hint="@string/editHeight"
+        android:hint="@string/editHeightft"
         android:id="@+id/editHeight"/>
 
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:hint="@string/editAge"
+        android:hint="@string/editHeightIn"
         android:id="@+id/editAge"/>
 
     <Button
